@@ -1,7 +1,6 @@
 
 /**
  * linda turkmen
- * BIL122 - proje 01
  * manipulates a string
  * @author linda7lll
  *
@@ -41,11 +40,7 @@ public class StringManipulator {
     }
 
     public static void main(String[] args) {
-		/*This part is not tested and graded.
-		You can try to manually test your program from here
-		bu kisim proje kapsaminda degerlendirilmeyecektir.
-		*/
-
+	
         String name = "linda turkmen";
 
         StringManipulator sm = new StringManipulator();
