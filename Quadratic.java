@@ -1,8 +1,6 @@
 
 /**
  *Linda Turkmen
- * BIL122 - Lab 02
- * Bu program girilen degerlerin koklerini buluyor.
  * 
  */
 
